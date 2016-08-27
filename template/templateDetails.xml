@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+        <name>PETAK-IT</name>
+        <creationDate>2016-08</creationDate>
+        <author>Jiri Petak</author>
+        <authorEmail>petakjiri89@gmail.com</authorEmail>
+        <copyright>PETAK-IT</copyright>
+        <version>1.0.0</version>
+        <description>Hlavní template pro webový portál PETAK-IT.</description>
+        <files>
+                <filename>index.html</filename>
+                <filename>index.php</filename>
+                <filename>templateDetails.xml</filename>
+                <folder>css</folder>
+                <folder>img</folder>
+        </files>
+        <positions>
+                <position>main-menu</position>
+        </positions>
+</extension>
